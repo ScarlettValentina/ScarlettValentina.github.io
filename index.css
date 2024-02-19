@@ -1,0 +1,120 @@
+.background {
+    background-image: url(https://i.imgur.com/aR6eHfS.jpeg);
+}
+
+.title {
+    display: table; /* keep the background color wrapped tight */
+    margin: 0px auto 0px auto; /* keep the table centered */
+    padding: 17px;
+    border-radius: 100px;
+    font-size: 145px;
+    font-family: "Alex Brush", cursive;
+    color: white;
+}
+
+.name {
+    text-align: center; 
+    border-radius: 100px;
+    display: table;   
+    margin: 0px auto 0px auto;
+    padding: 10px;
+    font-size: 24px;
+    color: white;
+    font-family: "Alex Brush", cursive;
+    text-decoration: underline;
+}
+
+.butterfly {
+    padding-left: 610px;
+    width: 300px;
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.youtube {
+    text-align: center;
+    display: table;
+    margin: 0px auto 0px;
+    padding: 10px;
+    background-color: whitesmoke;
+    border-radius: 100px;
+    font-size: 15px;
+    font-family: "Berkshire Swash", serif;
+}
+
+.instagram {
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 100px;
+    display: table;   
+    margin: 0px auto 0px auto;
+    padding: 10px;
+    font-size: 15px;
+    margin-top: 5px;
+    font-family: "Berkshire Swash", serif;
+}
+
+.twitter {
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 100px;
+    display: table;   
+    margin: 0px auto 0px auto;
+    padding: 10px;
+    font-size: 15px;
+    margin-top: 5px;
+    font-family: "Berkshire Swash", serif;
+}
+
+.spotify {
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 100px;
+    display: table;   
+    margin: 0px auto 0px auto;
+    padding: 10px;
+    font-size: 15px;
+    margin-top: 5px;
+    font-family: "Berkshire Swash", serif;
+}
+
+.apple {
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 100px;
+    display: table;   
+    margin: 0px auto 0px auto;
+    padding: 10px;
+    font-size: 15px;
+    margin-top: 5px;
+    font-family: "Berkshire Swash", serif;
+}
+
+.tiktok {
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 100px;
+    display: table;   
+    margin: 0px auto 0px auto;
+    padding: 10px;
+    font-size: 15px;
+    margin-top: 5px;
+    font-family: "Berkshire Swash", serif;
+}
+
+.slogan {
+    text-align: center;
+    display: table;   
+    margin: 0px auto 0px auto;
+    padding: 5px;
+    color: white;
+    font-family: "Dancing Script", cursive;
+    font-size: 17px;
+}
+
+.photos {
+    background-color: whitesmoke;
+    border-radius: 100px;
+    font-family: "Berkshire Swash", serif;
+    padding: 10px;
+}
