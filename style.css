@@ -25,16 +25,22 @@
 }
 
 img {
-    padding-left: 610px;
-    width: 300px;
-    position: relative;
-    margin-bottom: 40px;
+    width: 100%;
+    max-width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+@media only screen and (max-width: 600px) {
+    img {
+        padding: 0;
+    }
 }
 
 .youtube {
     text-align: center;
     display: table;
-    margin: 0px auto 0px;
+    margin: 45px auto 0px;
     padding: 10px;
     background-color: whitesmoke;
     border-radius: 100px;
